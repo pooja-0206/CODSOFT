@@ -6,13 +6,20 @@ Track: Data Science
 ---
 
 ## 📂 Tasks
-- **Task 1:** Exploratory Data Analysis (EDA) on dataset [name]  
-- **Task 2:** Regression model for predicting [target variable]  
-- **Task 3:** Classification using [algorithm, e.g., Decision Trees]  
-- **Task 4:** Clustering analysis on dataset [name]  
-- **Task 5:** Data visualization dashboard using [tool/library]  
+- **Task 1:** Titanic Survival Prediction  
+  Build a model using the Titanic dataset to predict whether a passenger survived or not.  
 
-Each task is organized in its own folder (`Task1/`, `Task2/`, etc.) with code, documentation, and demo video links.
+- **Task 2:** Movie Rating Prediction with Python  
+  Develop a regression model to predict movie ratings based on features like genre, director, and actors.  
+
+- **Task 3:** Iris Flower Classification  
+  Train a classification model on the Iris dataset to categorize flowers into species (setosa, versicolor, virginica).  
+
+- **Task 4:** Sales Prediction using Python  
+  Forecast product sales using regression techniques, considering factors like advertising expenditure and audience segmentation.  
+
+- **Task 5:** Credit Card Fraud Detection  
+  Build a machine learning model to detect fraudulent transactions, handling class imbalance and evaluating with precision, recall, and F1-score.  
 
 ---
 
